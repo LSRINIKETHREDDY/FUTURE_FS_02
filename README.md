@@ -86,6 +86,3 @@ FUTURE_FS_02/
     │   ├── pages/      # Page views (Dashboard, PublicForm)
     │   └── App.jsx     # Routing
 ```
-
-## ✨ Task Deliverable
-This project is part of the **Full Stack Web Development – Task 2** by Future Interns.
